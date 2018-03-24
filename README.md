@@ -16,7 +16,7 @@
   - [List of suv](#list-of-suv)
 - [MVP](#mvp)
   - [Client-side (bonus)](#client-side-bonus)
-- [Don't forget](#dont-forget)
+- [Launch the projet](#launch-the-project)
 - [Licence](#licence)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -98,9 +98,12 @@ Node.js + ES6 + Elasticsearch
 
 Display the list of the cars with React
 
-## Don't forget
+## LAUNCH THE PROJECT
 
-**Focus on api**
+1. Run the elasticsearch server first 
+2. Go on port 9292
+3. Index records to elasticsearch (/populate)
+4. Find the best car for you ! (/suv)
 
 ## Licence
 
